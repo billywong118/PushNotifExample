@@ -25,7 +25,7 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
 	
-	<gap:plugin name="com.phonegap.plugins.pushplugin"/>
+	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0"/>
 	
     <icon src="icon.png" />
     <icon gap:density="ldpi" gap:platform="android" src="res/icon/android/icon-36-ldpi.png" />
